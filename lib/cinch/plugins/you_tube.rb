@@ -1,3 +1,7 @@
+# @author Richard Banks <namaste@rawrnet.net>
+
+# Feel free to join us in #Lobby on irc://rawr.sinsira.net where you can test this gem and get help!
+
 require 'cinch'
 require 'open-uri'
 require 'nokogiri'
